@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Karen, a current student in the M.S. in Computational Analysis & Public Policy (MSCAPP) program at The University of Chicago.
 
 <!--
 **karen1iao/karen1iao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
